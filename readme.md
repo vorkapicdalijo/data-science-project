@@ -1,4 +1,6 @@
-# Notes for stress data
+# Data science colege project - Stress data anaylsis
+
+### Notes for stress data
 - StudentGrades.txt contains the grades for each student 
 - The Data.zip file contains folders for each participants named as S1, S2, etc.
 - Under each of the folders corresponding to each partcipants, there are three folders 'Final', 'Midterm 1', and 'Midterm 2', corresponding to three exams.
